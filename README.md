@@ -23,3 +23,6 @@ I enjoy building practical and structured software solutions while continuously 
 
 📄 Currently
 Expanding my skills in software development, application design, and real-world project experience.
+
+📄CV
+View my CV on LinkedIn: https://www.linkedin.com/in/elckevdb/
