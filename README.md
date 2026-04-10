@@ -25,4 +25,4 @@ I enjoy building practical and structured software solutions while continuously 
 Expanding my skills in software development, application design, and real-world project experience.
 
 📄CV
-View my CV on LinkedIn: https://www.linkedin.com/in/elckevdb/
+View my CV on GitHub: https://github.com/ElckeCode/CV.git
