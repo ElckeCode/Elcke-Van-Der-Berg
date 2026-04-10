@@ -13,7 +13,7 @@
 
 📂 Projects
 - Secure File Organizer Console App: https://github.com/ElckeCode/PRG281-Project-OOP-Console-Application.git
-- Windows Form Application: https://github.com/ElckeCode/PRG_282_Ctrl_Alt_Del-Windows-Application.git
+- Superhero Database System-Windows Form Application: https://github.com/ElckeCode/PRG_282_Ctrl_Alt_Del-Windows-Application.git
 - School Management Console Application: https://github.com/ElckeCode/NevermoreSchoolTakeTwo.git
 - Smart Fitness Tracker Web App: https://github.com/ElckeCode/Web-Programming-Project.git
 
