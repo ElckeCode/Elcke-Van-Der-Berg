@@ -12,6 +12,7 @@
 - Tools: Git, Visual Studio, Visual Studio Code
 
 📂 Projects
+- Object Oriented Programming Console App: https://github.com/ElckeCode/PRG281-Project-OOP-Console-Application.git
 - 
 
 
